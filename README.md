@@ -1,8 +1,13 @@
-### Hi there 👋
-- 🌱 I’m currently learning JavaScript、Vue.js、Scss
+### Hi there, I'm Chang Shu Lu👋
+
+I'm a beginner at programing language with marketing background
+
+Currently learning to create modern and user-friendly interfaces. Wish to be a good coder. 💪🏻
+
+I'm an efficient team player and love to learn new skills, open mind thinking, and always try to create or solve problems in many different ways.
+
 - 📫 How to reach me: globelex65@gmail.com
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+
 
 <!--
 **JiangShuuu/JiangShuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
