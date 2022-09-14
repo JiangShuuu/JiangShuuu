@@ -6,6 +6,7 @@ Currently learning to create modern and user-friendly interfaces. Wish to be a g
 
 I'm an efficient team player and love to learn new skills, open mind thinking, and always try to create or solve problems in many different ways.
 
+- 🌱 My Blog: https://www.jiangshuuu.com/docs/intro/
 - 📫 How to reach me: globelex65@gmail.com
 
 
