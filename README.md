@@ -9,8 +9,7 @@ I'm an efficient team player and love to learn new skills, open mind thinking, a
 - 🌱 My Blog: https://www.jiangshuuu.com/docs/intro/
 - 📫 How to reach me: globelex65@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JiangShuuu)](https://git.io/streak-stats)
-
+![JiangShuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiangShuuu&theme=tokyonight&show_icons=true)
 <!--
 - Shields.io：https://shields.io/
 - Emoji：https://www.emojiall.com/zh-hant
