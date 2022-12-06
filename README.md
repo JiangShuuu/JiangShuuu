@@ -10,10 +10,11 @@
 
 - 📫 How to reach me **globelex65@gmail.com**
 
-<h2 align="center">⭐️ My Github Streak Stats:</h2>
+<h2 align="center">⭐️ My Github Streak & Stats:</h2>
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiangShuuu&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JiangShuuu" />
+  <br/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiangShuuu&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
 </p>
 
 <h2 align="center">⌨️ Now I Code With:</h2>
