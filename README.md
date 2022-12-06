@@ -9,18 +9,16 @@ I'm an efficient team player and love to learn new skills, open mind thinking, a
 - 🌱 My Blog: https://www.jiangshuuu.com/docs/intro/
 - 📫 How to reach me: globelex65@gmail.com
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JiangShuuu)](https://git.io/streak-stats)
 
 <!--
-**JiangShuuu/JiangShuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Shields.io：https://shields.io/
+- Emoji：https://www.emojiall.com/zh-hant
+- Simple Icons： https://github.com/simple-icons/simple-icons/tree/master
+- Badges4 Readme：https://github.com/alexandresanlim/Badges4-README.md-Profile
+- Github Profile Trophy：https://github.com/ryo-ma/github-profile-trophy
+- Github Streak Stats：https://github.com/DenverCoder1/github-readme-streak-stats
+- Github Stats：https://github.com/anuraghazra/github-readme-stats
+- Blog Post Workflow：https://github.com/gautamkrishnar/blog-post-workflow
+- Awesome Github Profile Readme：https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
