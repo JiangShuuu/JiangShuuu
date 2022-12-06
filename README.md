@@ -10,6 +10,12 @@
 
 - 📫 How to reach me **globelex65@gmail.com**
 
+<h2 align="center">⭐️ My Github Streak Stats:</h2>
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiangShuuu&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JiangShuuu" />
+</p>
+
 <h2 align="center">⌨️ Now I Code With:</h2>
  <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -34,17 +40,6 @@
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </p>
-
-<h2 align="center">⭐️ My Github Streak Stats:</h2>
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JiangShuuu" />
-</p>
-
-<h2 align="center">⭐️ My Github Stats:</h2>
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiangShuuu&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
-</p>
-
 
 <!--
 https://github.com/WeiYun0912/WeiYun0912
