@@ -2,9 +2,7 @@
 
 - 💻 [My Website](https://jiangshuuu.com/)
 
-- 🌱 I’m currently learning **web technology**
-
-- 📝 I regularly write articles on [my website](https://www.jiangshuuu.com/docs/intro/)
+- 📝 I regularly write articles on [my website](https://www.jiangshuuu.com/guides/home/)
 
 - 📓 MyCakeResume：https://www.cakeresume.com/john-lu-1254e5
 
