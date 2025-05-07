@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiang Shu Lu <br><br> <img src="https://komarev.com/ghpvc/?username=jiangshuuu&style=for-the-badge"> </h1>
 
-- 💻 [My Website](https://jiangshuuu.com/)
-
-- 📝 I regularly write articles on [my website](https://www.jiangshuuu.com/guides/home/)
+Experienced frontend engineer specializing in building efficient, scalable architectures with React, Vue, Next.js, and Nuxt.js. Passionate about performance optimization, UI/UX improvement, and driving technical excellence within teams.
 
 - 📓 MyCakeResume：https://www.cakeresume.com/john-lu-1254e5
 
