@@ -2,7 +2,7 @@
 
 Experienced frontend engineer specializing in building efficient, scalable architectures with React, Vue, Next.js, and Nuxt.js. Passionate about performance optimization, UI/UX improvement, and driving technical excellence within teams.
 
-- 📓 MyResume：https://docs.google.com/document/d/1HTGXRoCAaJsNOREKhgD2cX53IP3ehpC2JP15xIRSNIY/edit?tab=t.0#heading=h.rsa4h4wom6k6
+- 📓 [MyResume](https://docs.google.com/document/d/1HTGXRoCAaJsNOREKhgD2cX53IP3ehpC2JP15xIRSNIY/edit?tab=t.0#heading=h.rsa4h4wom6k6)
 
 - 📫 How to reach me **globelex65@gmail.com**
 
